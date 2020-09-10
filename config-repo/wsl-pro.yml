@@ -2,3 +2,6 @@ from: git-pro-1.0
 spring:
   datasource:
     username: user_pro
+
+config:
+  testValue: springcloud-config-wsl-pro-testValue

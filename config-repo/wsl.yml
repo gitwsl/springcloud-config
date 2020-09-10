@@ -2,3 +2,6 @@ from: git-default-1.0
 spring:
   datasource:
     username: user_default
+
+config:
+  testValue: springcloud-config-wsl-testValue
